@@ -9,4 +9,4 @@ This is my first project using HTML and GitHub.
 I am learning web development and building projects step by step.
 
 ## 🌐 Live Preview
-Coming soon...
+https://grand-maamoul-ea70b.netlify.app
